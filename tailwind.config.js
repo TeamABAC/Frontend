@@ -8,6 +8,10 @@ module.exports = {
   theme: {
     colors: {
       'in-gray': '#F4F4F4',
+      'gray': '#777',
+      'white' : '#FFFFFF',
+      'black' : '#000',
+      'namblue' : '#003C82',
     },
     extend: {},
   },
